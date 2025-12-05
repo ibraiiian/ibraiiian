@@ -166,9 +166,8 @@ graph LR
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🌐 **DigiTech.id** | Technology Solutions Platform | Next.js, TailwindCSS |
-| 🏠 **Simkost** | Boarding House Management System | PHP, MySQL |
-| 📚 **Simperpus** | Library Management System | PHP, TailwindCSS |
-| 💰 **Sistem Kasir** | Point of Sale System | PHP, Bootstrap |
+| 🏠 **Simkost** | Boarding House Management System | Laravel, MySQL |
+| 🏣 **K-mate** | Building materials Management System | React, TailwindCSS, Supabase |
 
 </div>
 
