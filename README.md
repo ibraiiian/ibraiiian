@@ -41,11 +41,60 @@ const ibrahim = {
 
 ---
 
-## 🎯 Current Mood
+## 🎯 What I Do
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oqeqiqxgcr7zud7vqxv7oi5foi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+**Frontend Development**
+
+Building beautiful & responsive user interfaces
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Backend Development**
+
+Creating robust server-side applications
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+**UI/UX Design**
+
+Designing intuitive user experiences
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🌐 DigiTech.id - Technology Solutions Platform             ║
+║   📚 Learning Advanced JavaScript & Node.js                  ║
+║   🎨 Building Portfolio Projects                             ║
+║   🤝 Open for Freelance Web Development                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -88,50 +137,38 @@ const ibrahim = {
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Learning Journey
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibraiiian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ibraiiian&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraiiian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+```mermaid
+graph LR
+    A[🌱 HTML/CSS] --> B[⚡ JavaScript]
+    B --> C[⚛️ React]
+    C --> D[🚀 Next.js]
+    D --> E[🎯 Full Stack]
+    
+    style A fill:#E34F26,color:#fff
+    style B fill:#F7DF1E,color:#000
+    style C fill:#61DAFB,color:#000
+    style D fill:#000,color:#fff
+    style E fill:#A78BFA,color:#fff
+```
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ibraiiian&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraiiian&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibraiiian/ibraiiian/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibraiiian/ibraiiian/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ibraiiian/ibraiiian/output/github-contribution-grid-snake.svg">
-</picture>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌐 **DigiTech.id** | Technology Solutions Platform | Next.js, TailwindCSS |
+| 🏠 **Simkost** | Boarding House Management System | PHP, MySQL |
+| 📚 **Simperpus** | Library Management System | PHP, TailwindCSS |
+| 💰 **Sistem Kasir** | Point of Sale System | PHP, Bootstrap |
 
 </div>
 
@@ -168,6 +205,10 @@ const ibrahim = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+<br><br>
+
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epic-games&logoColor=white)
@@ -186,16 +227,17 @@ const ibrahim = {
 
 ---
 
-## 💖 Support Me
+## � Let's Build Something Amazing Together!
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/ibrahim">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/ibrahim">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+**💼 Open for Freelance Projects & Collaborations**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -208,12 +250,3 @@ const ibrahim = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
-
-<!-- Secret Easter Egg -->
-<!-- 
-╔══════════════════════════════════════════════════════════════╗
-║  You found the Easter Egg! 🥚                                ║
-║  Fun Fact: I spent way too much time making this README     ║
-║  look cool instead of actually coding. Worth it? Maybe. 😂   ║
-╚══════════════════════════════════════════════════════════════╝
--->
