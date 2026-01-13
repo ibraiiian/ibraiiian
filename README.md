@@ -167,7 +167,7 @@ graph LR
 |---------|-------------|------------|
 | 🌐 **DigiTech.id** | Technology Solutions Platform | Next.js, TailwindCSS |
 | 🏠 **Simkost** | Boarding House Management System | Laravel, MySQL |
-| 🏣 **K-mate** | Building materials Management System | React, TailwindCSS, Supabase |
+| 🏣 **K-mate** | Building materials Management System | Vue.js, TailwindCSS, Golang |
 
 </div>
 
