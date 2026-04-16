@@ -14,10 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20for%20Work-brightgreen?style=for-the-badge" alt="Status"/>
 </div>
 
-<!-- GitHub Stats -->
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ibraiiian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraiiian&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%"/>
+
 
 </div>
 
@@ -182,7 +179,7 @@ Designing intuitive user experiences that blend aesthetics with functionality
 
 | Category | Skills | Proficiency |
 |----------|--------|------------|
-| 🎨 **Frontend** | React, Next.js, TailwindCSS, HTML/CSS | ████████░░ 80% |
+| 🎨 **Frontend** | React, Next.js, TailwindCSS, HTML/CSS | ████████░░ 90% |
 | ⚙️ **Backend** | Node.js, Express, PHP, APIs | ███████░░░ 70% |
 | 🗄️ **Databases** | MySQL, MongoDB, Firebase | ███████░░░ 70% |
 | 🛠️ **Tools** | Git, Docker, VS Code, Figma | █████████░ 90% |
@@ -211,16 +208,6 @@ graph LR
     style E fill:#A78BFA,color:#fff
     style F fill:#7209B7,color:#fff
 ```
-
-</div>
-
----
-
-## 🏆 My Metrics
-
-<div align="center">
-
-<img alt="GitHub Stats" src="https://github-contributor-stats.vercel.app/api?username=ibraiiian&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -338,11 +325,7 @@ I'm actively looking for:
 
 <br>
 
-### 📈 My GitHub Journey
 
-<a href="https://github.com/ibraiiian">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibraiiian&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
-</a>
 
 </div>
 
