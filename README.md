@@ -34,7 +34,7 @@ const ibrahim = {
     pronouns: "he" | "him",
     location: "Indonesia 🇮🇩",
     currentFocus: "DigiTech.id 🚀",
-    experience: "1+ Years",
+    experience: "2+ Years",
     dream: "Google Fullstack Developer 🎯",
     funFact: "Inspired by Mark Zuckerberg's casual style 👕"
 };
