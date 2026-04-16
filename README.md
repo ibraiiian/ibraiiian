@@ -181,7 +181,7 @@ Designing intuitive user experiences that blend aesthetics with functionality
 |----------|--------|------------|
 | 🎨 **Frontend** | React, Next.js, TailwindCSS, HTML/CSS | ████████░░ 90% |
 | ⚙️ **Backend** | Node.js, Express, PHP, APIs | ███████░░░ 70% |
-| 🗄️ **Databases** | MySQL, MongoDB, Firebase | ███████░░░ 70% |
+| 🗄️ **Databases** | MySQL, Supabase, Firebase,Postgresql | ███████░░░ 70% |
 | 🛠️ **Tools** | Git, Docker, VS Code, Figma | █████████░ 90% |
 | 📱 **Responsive Design** | Mobile-First, Web Development | █████████░ 90% |
 
