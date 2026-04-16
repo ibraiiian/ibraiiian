@@ -91,7 +91,7 @@ Building scalable server-side applications with Node.js, databases, and APIs
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="100">
 
 ### 🎨 UI/UX Design
 
