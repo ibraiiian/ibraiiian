@@ -86,7 +86,7 @@ Crafting beautiful, responsive interfaces that users love with modern frameworks
 
 ### ⚙️ Backend Development
 
-Building scalable server-side applications with Node.js, databases, and APIs
+Building scalable server-side applications with Laravel, databases, and APIs
 
 </td>
 <td align="center" width="33%">
