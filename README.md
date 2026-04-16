@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Ibrahim%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Building%20the%20Future&descAlignY=50&descAlign=50"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+🚀;Building+DigiTech.id;Turning+Ideas+into+Reality;Fueled+by+Coffee+%26+Innovation;Let's+code+something+amazing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+DigiTech.id;Turning+Ideas+into+Reality;Fueled+by+Coffee+%26+Innovation;Let's+code+something+amazing!" alt="Typing SVG" /></a>
 
 <!-- Stats Section -->
 <br>
