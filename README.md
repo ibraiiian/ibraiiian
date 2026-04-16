@@ -82,11 +82,11 @@ Crafting beautiful, responsive interfaces that users love with modern frameworks
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="React">
 
 ### ⚙️ Backend Development
 
-Building scalable server-side applications with Node.js, databases, and APIs
+Building dynamic applications and state management with React and modern libraries
 
 </td>
 <td align="center" width="33%">
